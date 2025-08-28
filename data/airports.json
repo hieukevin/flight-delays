@@ -1,0 +1,282 @@
+[
+  {
+    "AirportID": 10140,
+    "AirportName": "Albuquerque International Sunport"
+  },
+  {
+    "AirportID": 10423,
+    "AirportName": "Austin - Bergstrom International"
+  },
+  {
+    "AirportID": 10821,
+    "AirportName": "Baltimore/Washington International Thurgood Marshall"
+  },
+  {
+    "AirportID": 10800,
+    "AirportName": "Bob Hope"
+  },
+  {
+    "AirportID": 10529,
+    "AirportName": "Bradley International"
+  },
+  {
+    "AirportID": 10792,
+    "AirportName": "Buffalo Niagara International"
+  },
+  {
+    "AirportID": 11057,
+    "AirportName": "Charlotte Douglas International"
+  },
+  {
+    "AirportID": 13232,
+    "AirportName": "Chicago Midway International"
+  },
+  {
+    "AirportID": 13930,
+    "AirportName": "Chicago O'Hare International"
+  },
+  {
+    "AirportID": 11193,
+    "AirportName": "Cincinnati/Northern Kentucky International"
+  },
+  {
+    "AirportID": 11042,
+    "AirportName": "Cleveland-Hopkins International"
+  },
+  {
+    "AirportID": 11259,
+    "AirportName": "Dallas Love Field"
+  },
+  {
+    "AirportID": 11298,
+    "AirportName": "Dallas/Fort Worth International"
+  },
+  {
+    "AirportID": 11292,
+    "AirportName": "Denver International"
+  },
+  {
+    "AirportID": 11433,
+    "AirportName": "Detroit Metro Wayne County"
+  },
+  {
+    "AirportID": 13871,
+    "AirportName": "Eppley Airfield"
+  },
+  {
+    "AirportID": 11697,
+    "AirportName": "Fort Lauderdale-Hollywood International"
+  },
+  {
+    "AirportID": 13342,
+    "AirportName": "General Mitchell International"
+  },
+  {
+    "AirportID": 12266,
+    "AirportName": "George Bush Intercontinental/Houston"
+  },
+  {
+    "AirportID": 10397,
+    "AirportName": "Hartsfield-Jackson Atlanta International"
+  },
+  {
+    "AirportID": 12173,
+    "AirportName": "Honolulu International"
+  },
+  {
+    "AirportID": 12339,
+    "AirportName": "Indianapolis International"
+  },
+  {
+    "AirportID": 12451,
+    "AirportName": "Jacksonville International"
+  },
+  {
+    "AirportID": 12478,
+    "AirportName": "John F. Kennedy International"
+  },
+  {
+    "AirportID": 14908,
+    "AirportName": "John Wayne Airport-Orange County"
+  },
+  {
+    "AirportID": 13830,
+    "AirportName": "Kahului Airport"
+  },
+  {
+    "AirportID": 13198,
+    "AirportName": "Kansas City International"
+  },
+  {
+    "AirportID": 12953,
+    "AirportName": "LaGuardia"
+  },
+  {
+    "AirportID": 15016,
+    "AirportName": "Lambert-St. Louis International"
+  },
+  {
+    "AirportID": 10721,
+    "AirportName": "Logan International"
+  },
+  {
+    "AirportID": 12954,
+    "AirportName": "Long Beach Airport"
+  },
+  {
+    "AirportID": 12892,
+    "AirportName": "Los Angeles International"
+  },
+  {
+    "AirportID": 13495,
+    "AirportName": "Louis Armstrong New Orleans International"
+  },
+  {
+    "AirportID": 14730,
+    "AirportName": "Louisville International-Standiford Field"
+  },
+  {
+    "AirportID": 14843,
+    "AirportName": "Luis Munoz Marin International"
+  },
+  {
+    "AirportID": 12889,
+    "AirportName": "McCarran International"
+  },
+  {
+    "AirportID": 13244,
+    "AirportName": "Memphis International"
+  },
+  {
+    "AirportID": 13796,
+    "AirportName": "Metropolitan Oakland International"
+  },
+  {
+    "AirportID": 13303,
+    "AirportName": "Miami International"
+  },
+  {
+    "AirportID": 13487,
+    "AirportName": "Minneapolis-St Paul International"
+  },
+  {
+    "AirportID": 10693,
+    "AirportName": "Nashville International"
+  },
+  {
+    "AirportID": 11618,
+    "AirportName": "Newark Liberty International"
+  },
+  {
+    "AirportID": 13931,
+    "AirportName": "Norfolk International"
+  },
+  {
+    "AirportID": 14831,
+    "AirportName": "Norman Y. Mineta San Jose International"
+  },
+  {
+    "AirportID": 13891,
+    "AirportName": "Ontario International"
+  },
+  {
+    "AirportID": 13204,
+    "AirportName": "Orlando International"
+  },
+  {
+    "AirportID": 14027,
+    "AirportName": "Palm Beach International"
+  },
+  {
+    "AirportID": 14100,
+    "AirportName": "Philadelphia International"
+  },
+  {
+    "AirportID": 14107,
+    "AirportName": "Phoenix Sky Harbor International"
+  },
+  {
+    "AirportID": 14122,
+    "AirportName": "Pittsburgh International"
+  },
+  {
+    "AirportID": 11066,
+    "AirportName": "Port Columbus International"
+  },
+  {
+    "AirportID": 14057,
+    "AirportName": "Portland International"
+  },
+  {
+    "AirportID": 14492,
+    "AirportName": "Raleigh-Durham International"
+  },
+  {
+    "AirportID": 14570,
+    "AirportName": "Reno/Tahoe International"
+  },
+  {
+    "AirportID": 14524,
+    "AirportName": "Richmond International"
+  },
+  {
+    "AirportID": 11278,
+    "AirportName": "Ronald Reagan Washington National"
+  },
+  {
+    "AirportID": 14893,
+    "AirportName": "Sacramento International"
+  },
+  {
+    "AirportID": 14869,
+    "AirportName": "Salt Lake City International"
+  },
+  {
+    "AirportID": 14683,
+    "AirportName": "San Antonio International"
+  },
+  {
+    "AirportID": 14679,
+    "AirportName": "San Diego International"
+  },
+  {
+    "AirportID": 14771,
+    "AirportName": "San Francisco International"
+  },
+  {
+    "AirportID": 14747,
+    "AirportName": "Seattle/Tacoma International"
+  },
+  {
+    "AirportID": 14635,
+    "AirportName": "Southwest Florida International"
+  },
+  {
+    "AirportID": 15304,
+    "AirportName": "Tampa International"
+  },
+  {
+    "AirportID": 10299,
+    "AirportName": "Ted Stevens Anchorage International"
+  },
+  {
+    "AirportID": 14307,
+    "AirportName": "Theodore Francis Green State"
+  },
+  {
+    "AirportID": 15376,
+    "AirportName": "Tucson International"
+  },
+  {
+    "AirportID": 12264,
+    "AirportName": "Washington Dulles International"
+  },
+  {
+    "AirportID": 13851,
+    "AirportName": "Will Rogers World"
+  },
+  {
+    "AirportID": 12191,
+    "AirportName": "William P Hobby"
+  }
+]
